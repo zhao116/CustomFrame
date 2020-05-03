@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71a955ce-6323-4620-af62-9d08b0c5a80c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_45.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomFrame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/04mybatis的分析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/Nooname1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/mybatisDB.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/入门案例的分析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/查询所有的分析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/自定义Mybatis分析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/annotations/Select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/cfg/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/cfg/Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/io/Resources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSessionFactoryBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/defaults/DefaultSqlSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/defaults/DefaultSqlSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/proxy/MapperProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/DataSourceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/XMLConfigBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/itheima/dao/IUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/itheima/test/MybatisTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/itheima/test/MybatisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/io/Resources.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSessionFactoryBuider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSessionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSession.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/itheima/dao/IUserDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/cfg/Mapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/defaults/DefaultSqlSessionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/Executor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/proxy/MapperProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/annotations/Select.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/XMLConfigBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSessionFactoryBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/DataSourceUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itheima/test/MybatisTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/cfg/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/defaults/DefaultSqlSession.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="106" />
+    <option name="y" value="62" />
+    <option name="width" value="1210" />
+    <option name="height" value="762" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day01_Mybatis04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_Mybatis04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_Mybatis04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01_Mybatis04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01_Mybatis04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lib" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MybatisTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisTest" />
+      <module name="CustomFrame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71a955ce-6323-4620-af62-9d08b0c5a80c" name="Default Changelist" comment="" />
+      <created>1588314510324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588314510324</updated>
+      <workItem from="1588314511620" duration="7476000" />
+      <workItem from="1588322970124" duration="1313000" />
+      <workItem from="1588394638344" duration="1481000" />
+      <workItem from="1588396149260" duration="3018000" />
+      <workItem from="1588399293602" duration="17000" />
+      <workItem from="1588400794366" duration="3261000" />
+      <workItem from="1588404484155" duration="472000" />
+      <workItem from="1588405485819" duration="137000" />
+      <workItem from="1588405700453" duration="803000" />
+      <workItem from="1588406827108" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18024000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="106" y="62" width="1210" height="762" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31506848" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49914384" weight="0.3283582" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33432835" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49743152" weight="0.3283582" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50085616" side_tool="true" visible="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49914384" weight="0.3283582" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.3299293" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/Executor.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/XMLConfigBuilder.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day01_Mybatis04$MybatisTest.ic" NAME="MybatisTest Coverage Results" MODIFIED="1588323499747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.itheima.test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/io/Resources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/itheima/dao/IUserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/cfg/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="295" column="9" selection-start-line="295" selection-start-column="9" selection-end-line="295" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="279" column="9" selection-start-line="279" selection-start-column="9" selection-end-line="279" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/proxy/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="639" selection-start-line="639" selection-end-line="639" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="e#3106#3107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/defaults/DefaultSqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#3201#3202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/annotations/Select.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/DataSourceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/dao/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.45/mysql-connector-java-5.1.45.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/tree/AbstractNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="842">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+          <folding>
+            <element signature="e#4829#4830#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/tree/DefaultDocument.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#1718#1719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/SqlSessionFactoryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/cfg/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#368#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/io/SAXReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/utils/XMLConfigBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/mybatis/sqlsession/defaults/DefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ptoto/04mybatis的分析.png" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itheima/test/MybatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
